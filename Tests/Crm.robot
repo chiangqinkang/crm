@@ -12,7 +12,7 @@ Test Teardown       End Web Test
 ${BROWSER} =                chrome
 ${URl} =                    https://automationplayground.com/crm/
 ${VALID_LOGIN_EMAIL} =      admin@robotframework.com
-${VALID_LOGIN_PASSWORD} =   qwe
+${VALID_LOGIN_PASSWORD} =   qweds
 
 *** Test Cases ***
 Should be able to Login With Valid Credentials
